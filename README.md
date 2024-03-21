@@ -2,8 +2,6 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/jimrazmus/password)](https://goreportcard.com/report/github.com/jimrazmus/password)
 [![Go Documentation](https://pkg.go.dev/github.com/jimrazmus/password)]
-![Build](https://github.com/jimrazmus/password/workflows/build/badge.svg?branch=master)
-[![CodeCov](https://codecov.io/gh/jimrazmus/password/branch/master/graph/badge.svg)](https://codecov.io/gh/jimrazmus/password)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ## Summary
