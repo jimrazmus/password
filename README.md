@@ -1,7 +1,7 @@
 # password
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/jimrazmus/password)](https://goreportcard.com/report/github.com/jimrazmus/password)
-[![Go Documentation](https://pkg.go.dev/github.com/jimrazmus/password)](https://pkg.go.dev/github.com/jimrazmus/password)
+[![Go Reference](https://pkg.go.dev/badge/github.com/jimrazmus/password.svg)](https://pkg.go.dev/github.com/jimrazmus/password)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ## Summary
